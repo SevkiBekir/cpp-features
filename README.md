@@ -2,7 +2,7 @@
 This repo includes the documentation and examples about C++ features.
 
 ## Versions
-- C++98 (Work in progress)
+- [C++98](C++98/c++98.md) (Work in progress)
 - C++03 (Planned)
 - C++11 (Planned)
 - C++14 (Planned)

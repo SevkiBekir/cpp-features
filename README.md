@@ -14,13 +14,13 @@ This repo includes the documentation and examples about C++ features.
 Thank you for your great contributions. :) 
 
 Before contribute the project, please follow the steps.
-1- Create an ticket on [Issues](https://github.com/SevkiBekir/cpp-features/issues)
-2- Create a branch related to the ticket number.
+1. Create an ticket on [Issues](https://github.com/SevkiBekir/cpp-features/issues)
+2. Create a branch related to the ticket number.
 For example, if the ticket number `10` then the branch name should be like `issue-10`. 
 Please follow the naming rule: `(issue-[0-9]*)$`
-3- Add your contributions based on the issue branch
-4- Create a pull request to `master` branch and add one of the authors as a reviewer.
-5- After approval, you can be ready to be merged to the branch, `master`
+3. Add your contributions based on the issue branch
+4. Create a pull request to `master` branch and add one of the authors as a reviewer.
+5. After approval, you can be ready to be merged to the branch, `master`
 
 ## Authors
 - [@SevkiBekir](https://github.com/SevkiBekir)
